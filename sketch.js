@@ -6,7 +6,7 @@ var speed,weight;
 //creating funtion setup
 function setup() {
   //creating canvas
-  createCanvas(800,400);
+  createCanvas(1600,400);
 
   //creating sprites
   //creating car sprite
